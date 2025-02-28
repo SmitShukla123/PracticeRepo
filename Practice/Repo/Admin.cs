@@ -13,7 +13,7 @@ namespace Practice.Repo
         }
         public async Task<Response<string>> InsertAdmin(Produ produc)
         {
-            Console.WriteLine("This is a New Insert Method");
+            Console.WriteLine("This is a New Insert Method and add for a Admin Product");
             Response<string> res = new();
             try
             {
