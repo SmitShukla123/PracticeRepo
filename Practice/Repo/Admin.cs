@@ -16,7 +16,10 @@ namespace Practice.Repo
             Console.WriteLine("This is a New Insert Method and add for a Admin Product");
             Console.WriteLine("This is a New Insert Method and add for a Admin Product");
             Console.WriteLine("This is a New Insert Method and add for a Admin Product");
-          
+            Console.WriteLine("This is a New Insert Method and add for a Admin Product");
+            Console.WriteLine("This is a New Insert Method and add for a Admin Product");
+            Console.WriteLine("This is a New Insert Method and add for a Admin Product");
+            Console.WriteLine("This is a New Insert Method and add for a Admin Product");
             Response<string> res = new();
             try
             {
